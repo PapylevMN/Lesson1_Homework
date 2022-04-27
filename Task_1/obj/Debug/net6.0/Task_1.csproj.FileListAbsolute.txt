@@ -1,0 +1,15 @@
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\bin\Debug\net6.0\Task_1.exe
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\bin\Debug\net6.0\Task_1.deps.json
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\bin\Debug\net6.0\Task_1.dll
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\bin\Debug\net6.0\Task_1.pdb
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\Task_1.dll
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\Task_1.pdb
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+D:\По работе\ГИКБРЕЙНС\Знакомство с языками программирования\Занятие 1\HomeWork_1\Task_1\obj\Debug\net6.0\ref\Task_1.dll
